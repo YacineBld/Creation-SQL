@@ -17,7 +17,7 @@ Bienvenue dans mon dépôt GitHub où vous trouverez une collection de __bases d
 * TP2 - Bibliothèque --> 📄Création de la base de données __CDI__ et de divers autres tables, valeurs, etc.
 * TP7 - Bases de données --> 📄Création de la bade de données __Organisation__ et de divers autres tables, jointures, etc.
   
-## 🔍 Résumé: 
+## Résumé : 
 
 >Ces comptes-rendus ont été réalisés dans un but pédagogique, veuillez à bien prendre en compte dans un premier temps des comptes-rendus afin d'avoir un contexte général quant aux différentes bases de données qui les associent.
 
